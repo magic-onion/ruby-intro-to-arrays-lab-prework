@@ -1,4 +1,1 @@
-new_array = []
-
-two_array = [1, 2]
-
+@my_new_array = instantiate_new_array
